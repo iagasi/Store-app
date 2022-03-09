@@ -1,0 +1,22 @@
+.body{
+    display: none;
+}
+
+.about{
+  
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    opacity: 1;
+    color: rgb(0, 0, 0);
+}
+
+.about-overlay{
+height: 100vh;
+width: 100vw;
+background-color: rgb(91, 91, 94);
+position: fixed;
+margin-top: -100px;
+z-index: 2;
+opacity: 0.8;
+}
